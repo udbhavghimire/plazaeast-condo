@@ -191,10 +191,10 @@
                         <h2 class="navbar-brand-foot fs-4"><a href="" target="_blank" class="text-dark text-decoration-none">Plaza East Condos </a></h2>
                     </p>
                     <span class=" justifyy ">
-                    We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. To learn more about Plaza East Condos, please contact the builder directly. </span>
+                    We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. The logos, images and renderings might be protected by copyright owned by the builders.. Not intended to solicit those under contract with another brokerage. All inquiries will go to Dolphin Realty Inc., Brokerage.</span>
                     <div class="list pt-md-5 pt-3 d-md-block d-none ">
                         <p class=" ">
-                            Website designed by <a href="https://www.sixdesign.ca/ " target="_blank " class="text-dark text-decoration-none "><strong>SixDesign.</strong> </a>
+                        Website owned by <a href="https://dolphy.ca/ " target="_blank " class="text-dark text-decoration-none "><strong> Dolphy.ca</strong> </a>
                         </p>
 
                     </div>
@@ -228,7 +228,7 @@
 
             <div class="list mt-5 pt-5 d-md-none d-block center-sm px-4 ">
                 <p class=" ">
-                    Website designed by <a href="https://www.sixdesign.ca/ " target="_blank " class="text-dark text-decoration-none "><strong>SixDesign.</strong> </a>
+                    Website owned by <a href="https://dolphy.ca/ " target="_blank " class="text-dark text-decoration-none "><strong> Dolphy.ca</strong> </a>
                 </p>
 
             </div>
