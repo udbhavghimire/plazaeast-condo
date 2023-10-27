@@ -26,7 +26,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
     <meta name="revisit-after" content="1 days">
-    <!-- <meta property="og:image" content="https://arborwesthome.ca/Arbor-West-Homes-Community.jpg"> -->
+    <!-- <meta property="og:image" content="https://plazaeastcondo.ca/Arbor-West-Homes-Community.jpg"> -->
     <meta property="og:site_name" content="Plaza East Condos" />
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -40,7 +40,7 @@
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "name": "Plaza East Condos",
-            "url": "https://arborwesthome.ca/",
+            "url": "https://plazaeastcondo.ca/",
             "potentialAction": {
                 "@type": "SearchAction",
                 "target": "{search_term_string}",
